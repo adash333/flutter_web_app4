@@ -1,6 +1,25 @@
 # flutter_web_app4
 
-A new Flutter project.
+Flutter2.2のほぼデフォルトアプリをNetlifyにアップロードしたものです。
+
+## DEMOサイト
+
+https://wonderful-snyder-a9483b.netlify.app/#/
+
+## 解説サイト
+
+[Flutter2.2でWebアプリを作成してNetlifyにデプロイ](https://i-doctor.sakura.ne.jp/font/?p=46226)
+
+
+## 開発環境
+
+```
+Windows 10 Pro (1909)
+Chrome
+git version 2.29.2.windows.2
+flutter_windows_2.2.0-stable
+VisualStudioCode 1.55.2
+```
 
 ## Getting Started
 
